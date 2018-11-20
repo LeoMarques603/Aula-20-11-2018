@@ -1,0 +1,7 @@
+c:\users\318120799\source\repos\Aula_20_11_2018\Aula_20_11_2018\bin\Debug\Aula_20_11_2018.exe.config
+c:\users\318120799\source\repos\Aula_20_11_2018\Aula_20_11_2018\bin\Debug\Aula_20_11_2018.exe
+c:\users\318120799\source\repos\Aula_20_11_2018\Aula_20_11_2018\bin\Debug\Aula_20_11_2018.pdb
+c:\users\318120799\source\repos\Aula_20_11_2018\Aula_20_11_2018\obj\Debug\Aula_20_11_2018.csprojAssemblyReference.cache
+c:\users\318120799\source\repos\Aula_20_11_2018\Aula_20_11_2018\obj\Debug\Aula_20_11_2018.csproj.CoreCompileInputs.cache
+c:\users\318120799\source\repos\Aula_20_11_2018\Aula_20_11_2018\obj\Debug\Aula_20_11_2018.exe
+c:\users\318120799\source\repos\Aula_20_11_2018\Aula_20_11_2018\obj\Debug\Aula_20_11_2018.pdb
